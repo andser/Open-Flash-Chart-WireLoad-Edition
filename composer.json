@@ -1,0 +1,23 @@
+{
+  "name": "andser/Open-Flash-Chart-WireLoad-Edition",
+  "description": "A fork of Open Flash Chart",
+  "license": "LGPL-2.1-or-later",
+  "type": "library",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "authors": [
+    {
+      "name": "Michal Migurski",
+      "email": "mike-json@teczno.com"
+    },
+    {
+      "name": "Matt Knapp",
+      "email": "mdknapp@gmail.com"
+    },
+    {
+      "name": "Brett Stimmerman",
+      "email": "brettstimmerman@gmail.com"
+    }
+  ]
+}
